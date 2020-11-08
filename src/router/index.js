@@ -9,6 +9,7 @@ const routes = [
   { path: '/',  component: Main },
   { path: '/videos',  component: Videos },
   { path: '/exams',  component: Exams },
+  { path: '/exams',  component: Exams },
 ]
 
 const router = new VueRouter({
